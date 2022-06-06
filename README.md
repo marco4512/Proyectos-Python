@@ -1,2 +1,2 @@
 # Proyectos-Python
-Repositorio con Trabajaos de Python para el manejo de datos
+Repositorio con Trabajos de Python para el manejo de datos
